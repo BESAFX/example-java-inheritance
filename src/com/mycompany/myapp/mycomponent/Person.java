@@ -4,7 +4,7 @@
 package com.mycompany.myapp.mycomponent;
 
 /**
- * @author John
+ * @author ilker
  *
  */
 public interface Person {

@@ -7,6 +7,6 @@ package com.mycompany.myapp.mycomponent;
  * @author ilker
  *
  */
-public interface Studying {
-	public String studyFor();
+public interface Teaching {
+	public String getCourseTitle();
 }
